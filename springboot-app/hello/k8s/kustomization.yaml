@@ -9,4 +9,4 @@ resources:
 images:
 - name: shimseonjo732/hello-app
   newName: shimseonjo732/hello-app
-  newTag: dec1867
+  newTag: ceb2e05
